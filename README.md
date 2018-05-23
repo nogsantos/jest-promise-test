@@ -1,0 +1,3 @@
+# Jest promise test example
+
+
